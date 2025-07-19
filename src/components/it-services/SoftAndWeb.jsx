@@ -156,7 +156,7 @@ const SoftAndWeb = () => {
             >
               <div className="card border-0 shadow-lg h-100 rounded-4 overflow-hidden bg-white">
                 <Image
-                  src={project.Image}
+                  src={project.image}
                   alt={project.title}
                   width={600}
                   height={400}
