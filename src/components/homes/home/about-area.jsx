@@ -5,9 +5,9 @@ import React, { useEffect, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import AngleArrow from "../../../svg/angle-arrow";
 
-import about_img_1 from "@assets/img/about/icon-1.png";
-import about_img_2 from "@assets/img/about/icon-2.png";
-import about_img_3 from "@assets/img/about/icon-3.png";
+import about_img_1 from "@assets/img/about/aviation.png";
+import about_img_2 from "@assets/img/about/medical.png";
+import about_img_3 from "@assets/img/about/it.png";
 import about_img_4 from "@assets/img/about/icon-4.png";
 import about_img_5 from "@assets/img/about/icon-5.png";
 import about_img_6 from "@assets/img/about/icon-6.png";
@@ -15,15 +15,14 @@ import about_img_7 from "@assets/img/about/icon-7.png";
 import about_img_8 from "@assets/img/about/icon-8.png";
 import about_img_9 from "@assets/img/about/icon-9.png";
 import LineArrowTwo from '../../../svg/line-arrow-2';
-import about from "@assets/img/logo/logo.png";
+import about from "@assets/img/about/service-provider.jpg";
 
 const about_data = [
     {
         id: 1,
-        img: about_img_1,
-        title: "Hospital Equipment and Machinery",
-        description: <>Hospital equipment and machinery enhance health care by supplying essential tools for diagnosis and treatment, thereby ensuring that patients receive optimal care.
-        </>,
+        img: about_img_3,
+        title: "Teach and Development Services",
+        description: <>We deliver top-notch technology services tailored to your vision. From web and app development to custom software solutions, we turn your dream tech projects into powerful, real-world applications.</>,
     },
     {
         id: 2,
@@ -32,7 +31,14 @@ const about_data = [
         description: <>We work closely with authorized Maintenance,
             Repair, and Overhaul providers and Original Equipment Manufacturers to deliver exceptional
             services</>,
-    }
+    },
+    {
+        id: 3,
+        img: about_img_1,
+        title: "Hospital Equipment and Machinery",
+        description: <>Hospital equipment and machinery enhance health care by supplying essential tools for diagnosis and treatment, thereby ensuring that patients receive optimal care.
+        </>,
+    },
 ]
 
 const setting = {
@@ -111,7 +117,7 @@ const AboutArea = () => {
                                                 Our <span className="title-pre-color">Services</span>
                                                 <AngleArrow />
                                             </span>
-                                            <h3 className="tp-section-title">FAMZ 
+                                            <h3 className="tp-section-title">FAMZ
                                                 <span className="title-left-shape">
                                                     <LineArrowTwo />
                                                 </span>
