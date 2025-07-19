@@ -1,8 +1,12 @@
-import React from 'react';
-import DomainHosting from '../components/it-services/DomainHosting';
+import React from "react";
+import DomainHosting from "../components/it-services/DomainHosting";
 
-const DomainHostingPage = () => {
-  return <DomainHosting />;
+const DomainHostingServicesPage = () => {
+  return (
+    <div>
+      <DomainHosting />
+    </div>
+  );
 };
 
-export default DomainHostingPage;
+export default DomainHostingServicesPage;
