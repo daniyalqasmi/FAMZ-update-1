@@ -1,14 +1,14 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { Navigation } from 'swiper';
-import team_data from '@/src/data/team-data';
+import team_data from '../../src/data/team-data';
 import React, { useEffect, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react'; 
 
-import PlusIcon from '@/src/svg/plus-icon';
-import AngleArrow from '@/src/svg/angle-arrow';
-import team_shape_1  from "../../../../public/assets/img/testimonial/home-3/shape-3.png";
-import { SocialLinksTwo } from '@/src/common/social-links';
+import PlusIcon from '../../src/svg/plus-icon';
+import AngleArrow from '../..src/svg/angle-arrow';
+import team_shape_1  from "../../public/assets/img/testimonial/home-3/shape-3.png";
+import { SocialLinksTwo } from '../../src/common/social-links';
 
 const setting = {
     slidesPerView: 5,

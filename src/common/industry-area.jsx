@@ -5,15 +5,15 @@ import SmsIcon from '../svg/sms-icon';
 import AngleArrow from '../svg/angle-arrow';
 import LineArrowTwo from '../svg/line-arrow-2';
 
-import industry_shape_1 from "../../../../public/assets/img/industry/shape-1.png";
-import industry_shape_2 from "../../../../public/assets/img/industry/shape-2.png";
-import industry_shape_3 from "../../../../public/assets/img/industry/shape-3.png";
+import industry_shape_1 from "../../public/assets/img/industry/shape-1.png";
+import industry_shape_2 from "../../public/assets/img/industry/shape-2.png";
+import industry_shape_3 from "../../public/assets/img/industry/shape-3.png";
 
-import industry_icon_1 from "../../../../public/assets/img/industry/icon-1.svg";
-import industry_icon_2 from "../../../../public/assets/img/industry/icon-2.svg";
-import industry_icon_3 from "../../../../public/assets/img/industry/icon-3.svg";
-import industry_thumb_1 from "../../../../public/assets/img/industry/img-1.jpg";
-import industry_thumb_2 from "../../../../public/assets/img/industry/img-2.jpg";
+import industry_icon_1 from "../../public/assets/img/industry/icon-1.svg";
+import industry_icon_2 from "../../public/assets/img/industry/icon-2.svg";
+import industry_icon_3 from "../../public/assets/img/industry/icon-3.svg";
+import industry_thumb_1 from "../../public/assets/img/industry/img-1.jpg";
+import industry_thumb_2 from "../../public/assets/img/industry/img-2.jpg";
 
 
 const IndustryArea = ({service}) => {
