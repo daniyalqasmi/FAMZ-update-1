@@ -4,18 +4,18 @@ import { Splide, SplideSlide } from '@splidejs/react-splide';
 import '@splidejs/react-splide/css';
 
 // Decorative shapes
-import testimonial_shape_1 from '@assets/img/testimonial/home-3/shape-1.png';
-import testimonial_shape_2 from '@assets/img/testimonial/home-3/shape-2.png';
+import testimonial_shape_1 from '../../../../public/assets/img/testimonial/home-3/shape-1.png';
+import testimonial_shape_2 from '../../../../public/assets/img/testimonial/home-3/shape-2.png';
 
 // Static images beside the slider
-import testimonial_img_1 from '@assets/img/testimonial/home-3/img-2.png';
-import testimonial_img_2 from '@assets/img/testimonial/home-3/img-3.png';
+import testimonial_img_1 from '../../../../public/assets/img/testimonial/home-3/img-2.png';
+import testimonial_img_2 from '../../../../public/assets/img/testimonial/home-3/img-3.png';
 
 // Slider thumbnails
-import testimonial_slider_img_1 from '@assets/img/testimonial/home-3/img-1.png';
-import testimonial_slider_img_2 from '@assets/img/testimonial/home-3/img-2.jpg';
-import testimonial_slider_img_3 from '@assets/img/testimonial/home-3/img-3.jpg';
-import testimonial_slider_img_4 from '@assets/img/testimonial/home-3/img-4.jpg';
+import testimonial_slider_img_1 from '../../../../public/assets/img/testimonial/home-3/img-1.png';
+import testimonial_slider_img_2 from '../../../../public/assets/img/testimonial/home-3/img-2.jpg';
+import testimonial_slider_img_3 from '../../../../public/assets/img/testimonial/home-3/img-3.jpg';
+import testimonial_slider_img_4 from '../../../../public/assets/img/testimonial/home-3/img-4.jpg';
 
 /**
  * Image slides & testimonial copy

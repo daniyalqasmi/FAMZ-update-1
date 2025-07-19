@@ -2,9 +2,9 @@ import Link from 'next/link';
 import React from 'react';
 
 
-import thumb_1 from "@assets/img/blog/details/side-1.jpg";
-import thumb_2 from "@assets/img/blog/details/side-2.jpg";
-import thumb_3 from "@assets/img/blog/details/side-3.jpg";
+import thumb_1 from "../../../../public/assets/img/blog/details/side-1.jpg";
+import thumb_2 from "../../../../public/assets/img/blog/details/side-2.jpg";
+import thumb_3 from "../../../../public/assets/img/blog/details/side-3.jpg";
 import Image from 'next/image';
 import Calendar from '@/src/svg/calendar';
 

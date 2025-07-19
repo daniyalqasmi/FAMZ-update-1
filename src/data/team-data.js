@@ -1,10 +1,10 @@
 
 // team member img import here 
-import avatar_img_1 from "@assets/img/team/team-5.jpg";
-import avatar_img_2 from "@assets/img/team/team-1.jpg";
-import avatar_img_3 from "@assets/img/team/team-2.jpg";
-import avatar_img_4 from "@assets/img/team/team-3.jpg";
-import avatar_img_5 from "@assets/img/team/team-4.jpg";
+import avatar_img_1 from "../../../../public/assets/img/team/team-5.jpg";
+import avatar_img_2 from "../../../../public/assets/img/team/team-1.jpg";
+import avatar_img_3 from "../../../../public/assets/img/team/team-2.jpg";
+import avatar_img_4 from "../../../../public/assets/img/team/team-3.jpg";
+import avatar_img_5 from "../../../../public/assets/img/team/team-4.jpg";
 
 
 const team_data = [

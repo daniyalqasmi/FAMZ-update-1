@@ -1,11 +1,11 @@
-import img_1 from "@assets/img/softweb-portfolio/tangeloes.jpg";
-import img_2 from "@assets/img/softweb-portfolio/fruit-veg.jpg";
-import img_3 from "@assets/img/softweb-portfolio/nooni.jpg";
-import img_4 from "@assets/img/softweb-portfolio/airportdriven.jpg";
-import img_5 from "@assets/img/softweb-portfolio/innoscribe.jpg";
-import img_6 from "@assets/img/softweb-portfolio/vs.jpg";
-import img_7 from "@assets/img/softweb-portfolio/programmiers.jpg";
-import img_8 from "@assets/img/softweb-portfolio/mdq.jpg";
+import img_1 from "../../public/assets/img/softweb-portfolio/tangeloes.jpg";
+import img_2 from "../../public/assets/img/softweb-portfolio/fruit-veg.jpg";
+import img_3 from "../../public/assets/img/softweb-portfolio/nooni.jpg";
+import img_4 from "../../public/assets/img/softweb-portfolio/airportdriven.jpg";
+import img_5 from "../../public/assets/img/softweb-portfolio/innoscribe.jpg";
+import img_6 from "../../public/assets/img/softweb-portfolio/vs.jpg";
+import img_7 from "../../public/assets/img/softweb-portfolio/programmiers.jpg";
+import img_8 from "../../public/assets/img/softweb-portfolio/mdq.jpg";
 export const categories = ['All', 'WordPress', 'Next.js', 'HTML'];
 
 export const projects = [

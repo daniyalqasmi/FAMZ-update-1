@@ -4,8 +4,8 @@ import Image from "next/image";
 import Footer from "../layout/footers/footer"; 
 import SEO from "../common/seo";
 import HeaderOne from "../layout/headers/header";
-import error_shape from "@assets/img/error/error-shape.png";
-import error_img from "@assets/img/error/404.png";
+import error_shape from "../../public/assets/img/error/error-shape.png";
+import error_img from "../../public/assets/img/error/404.png";
 
 
 const index = () => {

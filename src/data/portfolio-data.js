@@ -1,6 +1,6 @@
-import portfolio_img_1 from "@assets/img/portfolio/it.png";
-import portfolio_img_2 from "@assets/img/portfolio/aviation.png";
-import portfolio_img_3 from "@assets/img/portfolio/medical.png";
+import portfolio_img_1 from "../../public/assets/img/portfolio/it.png";
+import portfolio_img_2 from "../../public/assets/img/portfolio/aviation.png";
+import portfolio_img_3 from "../../public/assets/img/portfolio/medical.png";
 
 const portfolio_data = [
   {

@@ -1,4 +1,4 @@
-import service_icon_1 from "@assets/img/services/home-3/emergency_care.png";
+import service_icon_1 from "../../public/assets/img/services/home-3/emergency_care.png";
 
 const medical_services_data = [
   {

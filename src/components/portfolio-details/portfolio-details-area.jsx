@@ -38,11 +38,11 @@ const ServiceArea = () => {
                                         <Image src={item.icon} alt="theme-pure" />
                                     </div>
                                     <h4 className="tp-service-breadcrumb-title">
-                                        <Link href={`/services/${item.slug}`}>{item.title}</Link>
+                                        <Link href={`${item.slug}`}>{item.title}</Link>
                                     </h4>
                                     <p>{item.description}</p>
                                     <div className="tp-service-btn">
-                                        <Link href={`/services/${item.slug}`}>
+                                        <Link href={`${item.slug}`}>
                                             Read More
                                             <i className="fa-solid fa-arrow-up-right"></i>
                                         </Link>

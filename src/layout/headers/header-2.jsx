@@ -4,8 +4,8 @@ import Image from 'next/image';
 import NavMenu from './nav-menu';
 import useSticky from '@/src/hooks/use-sticky';
 
-import logo_img from "@assets/img/logo/home-2-logo.png";
-import logo_shape from "@assets/img/hero/hero-2/logo-shape.png";
+import logo_img from "../../../../public/assets/img/logo/home-2-logo.png";
+import logo_shape from "../../../../public/assets/img/hero/hero-2/logo-shape.png";
 import SearchPopup from '@/src/modals/search-popup';
 import Sidebar from '@/src/modals/sidebar';
 

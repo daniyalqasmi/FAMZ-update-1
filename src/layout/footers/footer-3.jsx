@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 
-import footer_logo from "@assets/img/logo/footer-logo.png";
+import footer_logo from "../../../public/assets/img/logo/footer-logo.png";
 import SocialLinks, { CopyRight } from '../../common/social-links';
 import EmailAeroplan from '../../svg/email-aeroplan';
 const footer_contact = {

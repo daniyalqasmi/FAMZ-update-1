@@ -1,13 +1,8 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import React, { useState } from 'react';
-import VideoPopup from '@/src/modals/video-popup';
-import ServiceContactForm from '@/src/forms/service-contact-form';
-import service_details_thumb from "@assets/img/services/service-details/img-1.jpg";
-import service_video_thumb from "@assets/img/services/service-details/image.jpg";
-import service_video_thumb2 from "@assets/img/services/service-details/img2.jpg";
-import RightSymbol from '@/src/svg/right-symbol';
-import accordion from '@/src/data/accordion';
+import ServiceContactForm from '../../../src/forms/service-contact-form';
+import accordion from '../../../src/data/accordion';
 import { Tabs, TabList, TabPanels, Tab, TabPanel } from '@chakra-ui/react'
 
 const service_details_content = {

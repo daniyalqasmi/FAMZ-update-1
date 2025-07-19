@@ -1,10 +1,10 @@
 import React from 'react';
 import Image from 'next/image';
 
-import headphone from "@assets/img/cta/home-3/headphone.png";
-import conversation from "@assets/img/cta/home-3/conversation.png";
-import footer_contact_shape_1 from "@assets/img/cta/home-3/shape-2.png";
-import footer_contact_shape_2 from "@assets/img/cta/home-3/shape-3.png";
+import headphone from "../../../public/assets/img/cta/home-3/headphone.png";
+import conversation from "../../../public/assets/img/cta/home-3/conversation.png";
+import footer_contact_shape_1 from "../../../public/assets/img/cta/home-3/shape-2.png";
+import footer_contact_shape_2 from "../../../public/assets/img/cta/home-3/shape-3.png";
 
 const FooterContact = ({bg_style, contact_style}) => {
     return (

@@ -1,14 +1,14 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import NavMenu from './nav-menu';
-import LangLogo from "@assets/img/logo/logo-lang.png";
+import LangLogo from "../../../public/assets/img/logo/logo-lang.png";
 import useSticky from '../../hooks/use-sticky';
 import HamburgerBtn from '../../svg/hamburger-btn';
 import React, { useEffect, useRef, useState } from 'react';
 import HomeIcon from '../../svg/home-icon';
 import SearchPopup from '../../modals/search-popup';
 import Sidebar from '../../modals/sidebar';
-import Logo from "@assets/img/logo/logo.png";
+import Logo from "../../../public/assets/img/logo/logo.png";
 
 const HeaderOne = () => {
    const { sticky } = useSticky()

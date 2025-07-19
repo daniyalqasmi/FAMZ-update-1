@@ -5,8 +5,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 
-import blog_shape_1 from "@assets/img/blog/shaep-2.png";
-import blog_shape_2 from "@assets/img/blog/shaep-2.png";
+import blog_shape_1 from "../../../../public/assets/img/blog/shaep-2.png";
+import blog_shape_2 from "../../../../public/assets/img/blog/shaep-2.png";
 
 const BlogArea = ({service}) => {
     return (

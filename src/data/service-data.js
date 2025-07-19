@@ -1,14 +1,14 @@
 
 // import img here 
-import service_img_1 from "@assets/img/services/services-1.png";
-import service_img_2 from "@assets/img/services/services-2.png";
-import service_img_3 from "@assets/img/services/services-3.png";
-import service_img_4 from "@assets/img/services/services-4.png";
-import service_img_5 from "@assets/img/services/services-5.png";
-import service_img_6 from "@assets/img/services/services-6.png";
-import service_img_7 from "@assets/img/services/services-7.png";
-import service_img_8 from "@assets/img/services/services-8.png";
-import service_img_9 from "@assets/img/services/services-9.png";
+import service_img_1 from "../../public/assets/img/services/services-1.png";
+import service_img_2 from "../../public/assets/img/services/services-2.png";
+import service_img_3 from "../../public/assets/img/services/services-3.png";
+import service_img_4 from "../../public/assets/img/services/services-4.png";
+import service_img_5 from "../../public/assets/img/services/services-5.png";
+import service_img_6 from "../../public/assets/img/services/services-6.png";
+import service_img_7 from "../../public/assets/img/services/services-7.png";
+import service_img_8 from "../../public/assets/img/services/services-8.png";
+import service_img_9 from "../../public/assets/img/services/services-9.png";
 
 const service_data = [
     {

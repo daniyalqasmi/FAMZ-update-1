@@ -3,11 +3,11 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import AngleArrow from '../../../svg/angle-arrow';
 import LineArrowTwo from '../../../svg/line-arrow-2';
 
-import shape_img from "@assets/img/testimonial/shape-1.png";
-import bg_img from "@assets/img/testimonial/testimonial-bg.jpg";
-import  user_1 from "@assets/img/testimonial/user-1.jpg";
-import  user_2 from "@assets/img/testimonial/user-2.jpg";
-import  user_3 from "@assets/img/testimonial/user-3.jpg"; 
+import shape_img from "../../../../public/assets/img/testimonial/shape-1.png";
+import bg_img from "../../../../public/assets/img/testimonial/testimonial-bg.jpg";
+import  user_1 from "../../../../public/assets/img/testimonial/user-1.jpg";
+import  user_2 from "../../../../public/assets/img/testimonial/user-2.jpg";
+import  user_3 from "../../../../public/assets/img/testimonial/user-3.jpg"; 
 import Image from 'next/image';
 
 const setting =  {

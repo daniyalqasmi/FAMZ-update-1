@@ -1,8 +1,8 @@
 
 
-import post_img_1 from "@assets/img/blog/blog-img-1.jpg";
-import post_img_2 from "@assets/img/blog/blog-img-2.jpg";
-import post_img_3 from "@assets/img/blog/blog-img-3.jpg";
+import post_img_1 from "../../public/assets/img/blog/blog-img-1.jpg";
+import post_img_2 from "../../public/assets/img/blog/blog-img-2.jpg";
+import post_img_3 from "../../public/assets/img/blog/blog-img-3.jpg";
 
 
 const post_data = [

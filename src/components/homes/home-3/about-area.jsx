@@ -1,23 +1,23 @@
 import Image from 'next/image';
 import Link from "next/link";
 import React,{useState} from 'react';
-import AngleArrow from '@/src/svg/angle-arrow';
-import VideoPopup from '@/src/modals/video-popup';
+import AngleArrow from '../../../../src/svg/angle-arrow';
+import VideoPopup from '../../../../src/modals/video-popup';
 // about img import here
-import about_img_1 from "@assets/img/about/home-3/shape-4.png";
-import about_img_2 from "@assets/img/about/home-3/img-1.jpg";
-import about_img_3 from "@assets/img/about/home-3/img-2.jpg";
-import about_img_4 from "@assets/img/about/home-3/img-3.jpg";
+import about_img_1 from "../../../../public/assets/img/about/home-3/shape-4.png";
+import about_img_2 from "../../../../public/assets/img/about/home-3/img-1.jpg";
+import about_img_3 from "../../../../public/assets/img/about/home-3/img-2.jpg";
+import about_img_4 from "../../../../public/assets/img/about/home-3/img-3.jpg";
 // about shape import here
-import about_shape_1 from "@assets/img/about/home-3/shape-1.png";
-import about_shape_2 from "@assets/img/about/home-3/shape-2.png";
-import about_shape_3 from "@assets/img/about/home-3/shape-3.png"; 
+import about_shape_1 from "../../../../public/assets/img/about/home-3/shape-1.png";
+import about_shape_2 from "../../../../public/assets/img/about/home-3/shape-2.png";
+import about_shape_3 from "../../../../public/assets/img/about/home-3/shape-3.png"; 
 // import progressbar   
 import { CircularProgressbar} from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
 
-import about_img from "@assets/img/about/about-01.png";
-import about_img_10 from "@assets/img/business/shape-5.png";
+import about_img from "../../../../public/assets/img/about/about-01.png";
+import about_img_10 from "../../../../public/assets/img/business/shape-5.png";
 
 
 const AboutArea = ({about}) => {

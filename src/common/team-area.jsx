@@ -7,7 +7,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 
 import PlusIcon from '@/src/svg/plus-icon';
 import AngleArrow from '@/src/svg/angle-arrow';
-import team_shape_1  from "@assets/img/testimonial/home-3/shape-3.png";
+import team_shape_1  from "../../../../public/assets/img/testimonial/home-3/shape-3.png";
 import { SocialLinksTwo } from '@/src/common/social-links';
 
 const setting = {

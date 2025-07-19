@@ -11,13 +11,13 @@ import LineArrowTwo from '../../../svg/line-arrow-2';
 import GreenRightArrow from '../../../svg/green-right-arrow';
 
 // fun fact shape
-import fun_fact_shape_1 from "@assets/img/fun-fact/shape-1.png";
-import fun_fact_shape_2 from "@assets/img/fun-fact/shape-2.png";
-import fun_fact_shape_3 from "@assets/img/fun-fact/shape-3.png";
-import fun_fact_shape_4 from "@assets/img/fun-fact/shape-4.png";
-import fun_fact_shape_5 from "@assets/img/fun-fact/shadow.png";
+import fun_fact_shape_1 from "../../../../public/assets/img/fun-fact/shape-1.png";
+import fun_fact_shape_2 from "../../../../public/assets/img/fun-fact/shape-2.png";
+import fun_fact_shape_3 from "../../../../public/assets/img/fun-fact/shape-3.png";
+import fun_fact_shape_4 from "../../../../public/assets/img/fun-fact/shape-4.png";
+import fun_fact_shape_5 from "../../../../public/assets/img/fun-fact/shadow.png";
 
-import reload_img from "@assets/img/fun-fact/world.png";
+import reload_img from "../../../../public/assets/img/fun-fact/world.png";
 
 
   const counter_content = [

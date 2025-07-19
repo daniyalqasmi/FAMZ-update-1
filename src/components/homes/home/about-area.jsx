@@ -4,18 +4,12 @@ import { Navigation } from "swiper";
 import React, { useEffect, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import AngleArrow from "../../../svg/angle-arrow";
+import LineArrowTwo from '@/svg/line-arrow-2';
 
-import about_img_1 from "@assets/img/about/aviation.png";
-import about_img_2 from "@assets/img/about/medical.png";
-import about_img_3 from "@assets/img/about/it.png";
-import about_img_4 from "@assets/img/about/icon-4.png";
-import about_img_5 from "@assets/img/about/icon-5.png";
-import about_img_6 from "@assets/img/about/icon-6.png";
-import about_img_7 from "@assets/img/about/icon-7.png";
-import about_img_8 from "@assets/img/about/icon-8.png";
-import about_img_9 from "@assets/img/about/icon-9.png";
-import LineArrowTwo from '../../../svg/line-arrow-2';
-import about from "@assets/img/about/service-provider.jpg";
+import about_img_1 from "../../../../public/assets/img/about/aviation.png";
+import about_img_2 from "../../../../public/assets/img/about/medical.png";
+import about_img_3 from "../../../../public/assets/img/about/it.png";
+import about from "../../../../public/assets/img/about/service-provider.jpg";
 
 const about_data = [
     {
@@ -119,7 +113,7 @@ const AboutArea = () => {
                                             </span>
                                             <h3 className="tp-section-title">FAMZ
                                                 <span className="title-left-shape">
-                                                    <LineArrowTwo />
+                                                    <LineArrowTwo/>
                                                 </span>
                                             </h3>
                                         </div>

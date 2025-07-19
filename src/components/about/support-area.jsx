@@ -7,12 +7,12 @@ import { useState } from "react";
 import Image from "next/image";
 
 
-import support_img_1 from "@assets/img/about/home-3/img-1.jpg";
-import support_img_2 from "@assets/img/about/home-3/img-2.jpg";
-import support_img_3 from "@assets/img/about/home-3/img-3.jpg";
-import support_img_4 from "@assets/img/about/home-3/img-4.jpg";
-import support_img_5 from "@assets/img/about/home-3/img-5.jpg";
-import support_img_6 from "@assets/img/about/home-3/img-6.jpg";
+import support_img_1 from "../../../../public/assets/img/about/home-3/img-1.jpg";
+import support_img_2 from "../../../../public/assets/img/about/home-3/img-2.jpg";
+import support_img_3 from "../../../../public/assets/img/about/home-3/img-3.jpg";
+import support_img_4 from "../../../../public/assets/img/about/home-3/img-4.jpg";
+import support_img_5 from "../../../../public/assets/img/about/home-3/img-5.jpg";
+import support_img_6 from "../../../../public/assets/img/about/home-3/img-6.jpg";
 
 const support_contact = {
    sub_title_1: "We’ve been stay",

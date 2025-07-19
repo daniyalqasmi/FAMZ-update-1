@@ -2,9 +2,9 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
-import headphone from "@assets/img/footer/headphone.png";
-import footer_logo from "@assets/img/logo/footer-logo.png";
-import user from "@assets/img/footer/user.png";
+import headphone from "../../../public/assets/img/footer/headphone.png";
+import footer_logo from "../../../public/assets/img/logo/footer-logo.png";
+import user from "../../../public/assets/img/footer/user.png";
 import EmailAeroplan from '../../svg/email-aeroplan';
 import SocialLinks, { CopyRight } from '../../common/social-links';
 

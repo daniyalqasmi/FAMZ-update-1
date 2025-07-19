@@ -3,8 +3,8 @@ import Image from 'next/image';
 import answer_question_data from '../../../data/answer-question-data';
 
 
-import shape_1 from  "@assets/img/support/img-1.png";
-import shape_2 from  "@assets/img/support/shape-bg.png";
+import shape_1 from  "../../../../public/assets/img/support/img-1.png";
+import shape_2 from  "../../../../public/assets/img/support/shape-bg.png";
 import AngleArrow from '../../../svg/angle-arrow';
 import LineArrowTwo from '../../../svg/line-arrow-2';
 

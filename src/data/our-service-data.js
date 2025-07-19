@@ -1,8 +1,8 @@
-import service_icon_1 from "@assets/img/services/home-3/icon-1.png";
-import service_icon_2 from "@assets/img/services/home-3/icon-2.png";
-import service_icon_3 from "@assets/img/services/home-3/icon-3.png";
-import service_icon_4 from "@assets/img/services/home-3/icon-4.png";
-import service_icon_5 from "@assets/img/services/home-3/icon-5.png";
+import service_icon_1 from "../../public/assets/img/services/home-3/icon-1.png";
+import service_icon_2 from "../../public/assets/img/services/home-3/icon-2.png";
+import service_icon_3 from "../../public/assets/img/services/home-3/icon-3.png";
+import service_icon_4 from "../../public/assets/img/services/home-3/icon-4.png";
+import service_icon_5 from "../../public/assets/img/services/home-3/icon-5.png";
 
 const our_service_data = [
   {

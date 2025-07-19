@@ -3,20 +3,20 @@ import Image from 'next/image';
 import ImagePopup from './ImagePopup';
 import React, { useState } from 'react';
 
-import Logo from "@assets/img/logo/logo.png";
-import sidebar_img_1 from "@assets/img/portfolio/img-1.jpg";
-import sidebar_img_2 from "@assets/img/portfolio/img-2.jpg";
-import sidebar_img_3 from "@assets/img/portfolio/img-3.jpg";
-import sidebar_img_4 from "@assets/img/portfolio/img-4.jpg";
-import sidebar_img_5 from "@assets/img/portfolio/img-5.jpg";
-import sidebar_img_6 from "@assets/img/portfolio/img-6.jpg";
-import sidebar_img_7 from "@assets/img/portfolio/img-7.jpg";
-import sidebar_img_8 from "@assets/img/portfolio/img-8.jpg";
-import sidebar_img_9 from "@assets/img/portfolio/img-9.jpg";
-import sidebar_img_10 from "@assets/img/portfolio/img-10.jpg";
-import sidebar_img_11 from "@assets/img/portfolio/img-11.jpg";
-import sidebar_img_12 from "@assets/img/portfolio/img-12.jpg";
-import sidebar_img_13 from "@assets/img/portfolio/img-13.png";
+import Logo from "../../public/assets/img/logo/logo.png";
+import sidebar_img_1 from "../../public/assets/img/portfolio/img-1.jpg";
+import sidebar_img_2 from "../../public/assets/img/portfolio/img-2.jpg";
+import sidebar_img_3 from "../../public/assets/img/portfolio/img-3.jpg";
+import sidebar_img_4 from "../../public/assets/img/portfolio/img-4.jpg";
+import sidebar_img_5 from "../../public/assets/img/portfolio/img-5.jpg";
+import sidebar_img_6 from "../../public/assets/img/portfolio/img-6.jpg";
+import sidebar_img_7 from "../../public/assets/img/portfolio/img-7.jpg";
+import sidebar_img_8 from "../../public/assets/img/portfolio/img-8.jpg";
+import sidebar_img_9 from "../../public/assets/img/portfolio/img-9.jpg";
+import sidebar_img_10 from "../../public/assets/img/portfolio/img-10.jpg";
+import sidebar_img_11 from "../../public/assets/img/portfolio/img-11.jpg";
+import sidebar_img_12 from "../../public/assets/img/portfolio/img-12.jpg";
+import sidebar_img_13 from "../../public/assets/img/portfolio/img-13.png";
 import MobileMenus from '../layout/headers/mobile-menus';
 const images =  [
     {id: 1, img: sidebar_img_1 }, 

@@ -1,6 +1,6 @@
 import { SocialLinksTwo } from '@/src/common/social-links';
 import React from 'react';
-import  user_img from "@assets/img/blog/user-2.jpg";
+import  user_img from "../../../../public/assets/img/blog/user-2.jpg";
 import Image from 'next/image';
 
 

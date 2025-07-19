@@ -5,12 +5,12 @@ import { SocialLinksTwo } from '@/src/common/social-links';
 
 
 // team members img 
-import team_img_1 from '@assets/img/breadcrumb/team/img-1.jpg';
-import team_img_2 from '@assets/img/breadcrumb/team/img-2.jpg';
-import team_img_3 from '@assets/img/breadcrumb/team/img-3.jpg';
-import team_img_4 from '@assets/img/breadcrumb/team/img-4.jpg';
-import team_img_5 from '@assets/img/breadcrumb/team/img-5.jpg';
-import team_img_6 from '@assets/img/breadcrumb/team/img-6.jpg'; 
+import team_img_1 from '../../../../public/assets/img/breadcrumb/team/img-1.jpg';
+import team_img_2 from '../../../../public/assets/img/breadcrumb/team/img-2.jpg';
+import team_img_3 from '../../../../public/assets/img/breadcrumb/team/img-3.jpg';
+import team_img_4 from '../../../../public/assets/img/breadcrumb/team/img-4.jpg';
+import team_img_5 from '../../../../public/assets/img/breadcrumb/team/img-5.jpg';
+import team_img_6 from '../../../../public/assets/img/breadcrumb/team/img-6.jpg'; 
 
 const team_data = [
     {

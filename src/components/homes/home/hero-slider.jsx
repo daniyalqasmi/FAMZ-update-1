@@ -8,13 +8,13 @@ import VideoPopup from "../../../modals/video-popup";
 import React, { useState, useEffect } from "react";
 
 
-import shape_1 from "@assets/img/hero/shape-1.png";
-import shape_2 from "@assets/img/hero/shape-2.png";
-import shape_3 from "@assets/img/hero/shape-3.png";
-import shape_4 from "@assets/img/hero/shape-4.png";
-import shape_5 from "@assets/img/hero/shape-7.png";
-import service_shape from "@assets/img/hero/shape-5.png";
-import service_quote from "@assets/img/hero/quot.png";
+import shape_1 from "../../../../public/assets/img/hero/shape-1.png";
+import shape_2 from "../../../../public/assets/img/hero/shape-2.png";
+import shape_3 from "../../../../public/assets/img/hero/shape-3.png";
+import shape_4 from "../../../../public/assets/img/hero/shape-4.png";
+import shape_5 from "../../../../public/assets/img/hero/shape-7.png";
+import service_shape from "../../../../public/assets/img/hero/shape-5.png";
+import service_quote from "../../../../public/assets/img/hero/quot.png";
 
 // slider setting 
 const setting = {

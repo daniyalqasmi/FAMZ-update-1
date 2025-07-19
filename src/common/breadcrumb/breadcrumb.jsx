@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import breadcrumb_img from "@assets/img/breadcrumb/title.svg";
+import breadcrumb_img from "../../../public/assets/img/breadcrumb/title.svg";
 
 const Breadcrumb = ({top_title = "Our Company", page_title = "Our Company"}) => {
   return (
