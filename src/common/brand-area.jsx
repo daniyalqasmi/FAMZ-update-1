@@ -3,14 +3,14 @@ import { Navigation } from 'swiper';
 import React, { useEffect, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
-import brand_img_1 from "../../../../public/assets/img/brand/home-3/brand-1.png";
-import brand_img_2 from "../../../../public/assets/img/brand/home-3/brand-2.png";
-import brand_img_3 from "../../../../public/assets/img/brand/home-3/brand-3.png";
-import brand_img_4 from "../../../../public/assets/img/brand/home-3/brand-4.png";
-import brand_img_5 from "../../../../public/assets/img/brand/home-3/brand-5.png";
-import brand_img_6 from "../../../../public/assets/img/brand/home-3/brand-6.png";
-import brand_img_7 from "../../../../public/assets/img/brand/home-3/brand-7.png";
-import brand_img_8 from "../../../../public/assets/img/brand/home-3/brand-8.png";
+import brand_img_1 from "../../public/assets/img/brand/home-3/brand-1.png";
+import brand_img_2 from "../../public/assets/img/brand/home-3/brand-2.png";
+import brand_img_3 from "../../public/assets/img/brand/home-3/brand-3.png";
+import brand_img_4 from "../../public/assets/img/brand/home-3/brand-4.png";
+import brand_img_5 from "../../public/assets/img/brand/home-3/brand-5.png";
+import brand_img_6 from "../../public/assets/img/brand/home-3/brand-6.png";
+import brand_img_7 from "../../public/assets/img/brand/home-3/brand-7.png";
+import brand_img_8 from "../../public/assets/img/brand/home-3/brand-8.png";
 
 const brand_img = [brand_img_1, brand_img_2, brand_img_3, brand_img_4, brand_img_5,brand_img_6, brand_img_7, brand_img_8,]
 
