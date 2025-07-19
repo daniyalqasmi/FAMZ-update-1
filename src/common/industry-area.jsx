@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import SmsIcon from '@/src/svg/sms-icon';
-import AngleArrow from '@/src/svg/angle-arrow';
-import LineArrowTwo from '@/src/svg/line-arrow-2';
-import VideoPopup from '@/src/modals/video-popup';
+import SmsIcon from '../svg/sms-icon';
+import AngleArrow from '../svg/angle-arrow';
+import LineArrowTwo from '../svg/line-arrow-2';
 
 import industry_shape_1 from "@assets/img/industry/shape-1.png";
 import industry_shape_2 from "@assets/img/industry/shape-2.png";

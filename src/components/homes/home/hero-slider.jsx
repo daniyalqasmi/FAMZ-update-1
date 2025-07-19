@@ -37,7 +37,7 @@ const slider_data = [
     id: 4,
     bg_img: "/assets/img/hero/hero-4.jpg",
     sub_title_1: "Top",
-    sub_title_2: "Madical Equipment",
+    sub_title_2: "Medical Equipment",
     hero_title_1: "Premium Quality",
     hero_title_2: "Equipment",
   },
