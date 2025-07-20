@@ -16,12 +16,12 @@ const AviationServiceArea = () => {
             <div className="col-lg-6">
               <div className="tp-service-breadcrumb-title-wrapper">
                 <span className="tp-section-title__pre">
-                  Innovative <span className="title-pre-color">Areeba</span> Daniyal
+                  Expert Maintenance <span className="title-pre-color">From Engines</span> to Avionics
                   <AngleArrow />
                 </span>
                 <h3 className="tp-section-title">
-                  Leading Digital <span className="title-color">Technology</span>
-                  <br /> Agency Empowering People
+                  Component Testing <span className="title-color">with Industry-Standard </span>
+                    Equipment
                 </h3>
               </div>
             </div>
@@ -29,9 +29,7 @@ const AviationServiceArea = () => {
             <div className="col-lg-6">
               <div className="tp-service-breadcrumb-title-wrapper justify-content-start justify-content-xl-end d-flex">
                 <p>
-                  As buildings became more complex, the field of architecture evolved
-                  into a multi‑disciplinary domain, integrating advanced technological
-                  expertise.
+                  With the evolution of aviation, the industry has transformed into a multidisciplinary domain, blending advanced engineering, data-driven insights, and specialized maintenance expertise.
                 </p>
               </div>
             </div>

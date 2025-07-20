@@ -13,18 +13,18 @@ const Medical_ServiceArea = () => {
                         <div className="col-lg-6">
                             <div className="tp-service-breadcrumb-title-wrapper">
                                 <span className="tp-section-title__pre">
-                                    Innovative <span className='title-pre-color'>Areeba</span> Daniyal
+                                    Expertise <span className='title-pre-color'>Technology</span> Compassion
                                     <AngleArrow />
                                 </span>
                                 <h3 className="tp-section-title">
-                                    Leading Digital <span className='title-color'>Technology</span><br /> Agency Empowering People
+                                    High-Quality <span className='title-color'>Medical Devices</span><br /> & Instruments
                                 </h3>
                             </div>
                         </div>
                         <div className="col-lg-6">
                             <div className="tp-service-breadcrumb-title-wrapper justify-content-start justify-content-xl-end d-flex">
                                 <p>
-                                    As buildings became more complex, the field of architecture evolved into a multi-disciplinary domain, integrating advanced technological expertise.
+                                   With the rise of complex health needs, medicine transformed into a multidisciplinary field, integrating cutting-edge technology with specialized care.
                                 </p>
                             </div>
                         </div>

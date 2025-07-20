@@ -13,18 +13,18 @@ const It_ServiceArea = () => {
                         <div className="col-lg-6">
                             <div className="tp-service-breadcrumb-title-wrapper">
                                 <span className="tp-section-title__pre">
-                                    Innovative <span className='title-pre-color'>Areeba</span> Daniyal
+                                     Smart Automation <span className='title-pre-color'>Save Time</span> Maximize Efficiency
                                     <AngleArrow />
                                 </span>
                                 <h3 className="tp-section-title">
-                                    Leading Digital <span className='title-color'>Technology</span><br /> Agency Empowering People
+                                    Future-Ready <span className='title-color'>Applications Tailored</span> for You
                                 </h3>
                             </div>
                         </div>
                         <div className="col-lg-6">
                             <div className="tp-service-breadcrumb-title-wrapper justify-content-start justify-content-xl-end d-flex">
                                 <p>
-                                    As buildings became more complex, the field of architecture evolved into a multi-disciplinary domain, integrating advanced technological expertise.
+                                    As architectural designs grew more intricate, the field evolved into a multidisciplinary discipline, blending creative vision with advanced technological expertise.
                                 </p>
                             </div>
                         </div>
@@ -55,10 +55,10 @@ const It_ServiceArea = () => {
                     <div className="row justify-content-center">
                         <div className="col-xl-8 text-center">
                             <div className="tp-about-call fadeUp">
-                                <a href="tel:+92 316 2197618">
+                                <a href="tel:+92-347-8381849">
                                     <p>
                                         <i className="fa-solid fa-phone"></i>
-                                        Provide IT services to hundreds customers <span>+92 316 2197618</span>
+                                        Provide IT services to hundreds customers <span>+92-347-8381849</span>
                                     </p>
                                 </a>
                             </div>
