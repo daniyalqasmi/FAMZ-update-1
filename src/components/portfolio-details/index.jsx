@@ -3,7 +3,7 @@ import HeaderOne from "../../layout/headers/header";
 import React from "react";
 import PortfolioDetailsArea from "./portfolio-details-area";
 import FooterContact from "../../layout/footers/footer-contact";
-import FooterThree from "../../layout/footers/footer-3";
+import FooterThree from "../../layout/footers/footer";
 
 const PortfolioDetails = () => {
   return (

@@ -27,9 +27,9 @@ const footer_content = {
         "Executive",
         "Aerospace Metals",
         "Hospital Beds",
-        "",
-        "",
-        "",
+        "Web & Soft Developmet",
+        "Graphics",
+        "Domain & Hostings",
         "Defense",
     ]
 

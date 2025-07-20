@@ -3,7 +3,7 @@ import HeaderOne from "../../layout/headers/header";
 import React from "react";
 import Projects_area from "./projects-details-area";
 import FooterContact from "../../layout/footers/footer-contact";
-import FooterThree from "../../layout/footers/footer-3";
+import FooterThree from "../../layout/footers/footer";
 
 const Software_web_development = () => {
   return (

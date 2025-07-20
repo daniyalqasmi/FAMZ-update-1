@@ -4,7 +4,7 @@ import Breadcrumb from "../../common/breadcrumb/breadcrumb";
 import ServiceArea from "./service-area";
 import IndustryArea from "../../common/industry-area";
 import FooterContact from "../../layout/footers/footer-contact";
-import FooterThree from "../../layout/footers/footer-3";
+import FooterThree from "../../layout/footers/footer";
 
 const Sevice = () => {
   return (

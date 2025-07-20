@@ -4,7 +4,7 @@ import React from 'react';
 import ContactArea from './contact-area';
 import GoogleMap from './google-map';
 import FooterContact from '../../layout/footers/footer-contact';
-// import FooterThree from '@/layout/footers/footer-3';
+// import FooterThree from '@/layout/footers/footer';
 import Footer from '../../layout/footers/footer';
 
 const Contact = () => {

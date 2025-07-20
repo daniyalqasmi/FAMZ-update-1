@@ -11,7 +11,7 @@ import TestimonialFeature from './feature-testimonial';
 // import TeamArea from '@/src/common/team-area';
 // import BlogArea from '@/src/common/blog-area';
 import FooterContact from '../../layout/footers/footer-contact';
-// import FooterThree from '@/src/layout/footers/footer-3';
+// import FooterThree from '@/src/layout/footers/footer';
 import Footer from '../../layout/footers/footer';
 
 const About = () => {

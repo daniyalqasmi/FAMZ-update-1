@@ -2,7 +2,7 @@ import Breadcrumb from "../../common/breadcrumb/breadcrumb";
 import HeaderOne from "../../layout/headers/header";
 import React from "react";
 import FooterContact from "../../layout/footers/footer-contact";
-import FooterThree from "../../layout/footers/footer-3";
+import FooterThree from "../../layout/footers/footer";
 import It_ServiceArea from "./it-portfolio-details-area";
 
 const ItPortfolioDetails = () => {
