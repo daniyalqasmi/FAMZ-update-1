@@ -1,12 +1,12 @@
-import useSticky from '@/src/hooks/use-sticky';
+import useSticky from '../../hooks/use-sticky';
 import Link from 'next/link';
 import React, {useEffect, useRef, useState} from 'react';
 import NavMenu from './nav-menu';
-import Logo from "../../../../public/assets/img/logo/footer-logo.png";
+import Logo from "../../../public/assets/img/logo/footer-logo.png";
 import Image from 'next/image';
-import SearchPopup from '@/src/modals/search-popup';
-import Sidebar from '@/src/modals/sidebar';
-import call_icon from '../../../../public/assets/img/icon/call.svg';
+import SearchPopup from '../../modals/search-popup';
+import Sidebar from '../../modals/sidebar';
+import call_icon from '../../../public/assets/img/icon/call.svg';
 import { SocialLinksTwo } from '../../common/social-links';
 
 const HeaderThree = () => {

@@ -1,14 +1,20 @@
-import Link from 'next/link';
+// import Link from 'next/link';
 import Image from 'next/image';
 import { Navigation } from "swiper";
 import React, { useEffect, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import AngleArrow from "../../../svg/angle-arrow";
-import LineArrowTwo from '@/svg/line-arrow-2';
 
 import about_img_1 from "../../../../public/assets/img/about/aviation.png";
 import about_img_2 from "../../../../public/assets/img/about/medical.png";
 import about_img_3 from "../../../../public/assets/img/about/it.png";
+// import about_img_4 from "@assets/img/about/icon-4.png";
+// import about_img_5 from "@assets/img/about/icon-5.png";
+// import about_img_6 from "@assets/img/about/icon-6.png";
+// import about_img_7 from "@assets/img/about/icon-7.png";
+// import about_img_8 from "@assets/img/about/icon-8.png";
+// import about_img_9 from "@assets/img/about/icon-9.png";
+import LineArrowTwo from '../../../svg/line-arrow-2';
 import about from "../../../../public/assets/img/about/service-provider.jpg";
 
 const about_data = [
@@ -113,7 +119,7 @@ const AboutArea = () => {
                                             </span>
                                             <h3 className="tp-section-title">FAMZ
                                                 <span className="title-left-shape">
-                                                    <LineArrowTwo/>
+                                                    <LineArrowTwo />
                                                 </span>
                                             </h3>
                                         </div>
@@ -156,9 +162,9 @@ const AboutArea = () => {
                                     </Swiper>
 
                                     <div className="tp-about-call">
-                                        <a href="tel:+92 331 2788903">
+                                        <a href="tel:+92-331-2788903">
                                             <p><i className="fa-solid fa-phone"></i>
-                                                FAMZ  solutions for clienteles<span>+92 331 2788903</span></p>
+                                                FAMZ  solutions for clienteles<span>+92-331-2788903</span></p>
                                         </a>
                                     </div>
 

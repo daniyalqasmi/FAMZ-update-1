@@ -2,11 +2,11 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
-import brand_img_1 from "@assets/img/brand/home-2/shape-1.png";
-import brand_img_2 from "@assets/img/brand/home-2/shape-2.png";
-import brand_img_3 from "@assets/img/brand/home-2/shape-3.png";
-import brand_img_4 from "@assets/img/brand/home-2/shape-4.png";
-import brand_img_5 from "@assets/img/brand/home-2/shape-5.png";
+import brand_img_1 from "../../../../public/assets/img/brand/home-2/shape-1.png";
+import brand_img_2 from "../../../../public/assets/img/brand/home-2/shape-2.png";
+import brand_img_3 from "../../../../public/assets/img/brand/home-2/shape-3.png";
+import brand_img_4 from "../../../../public/assets/img/brand/home-2/shape-4.png";
+import brand_img_5 from "../../../../public/assets/img/brand/home-2/shape-5.png";
 
 const BrandArea = () => {
     return (

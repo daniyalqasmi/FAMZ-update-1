@@ -1,4 +1,4 @@
-import HeaderTwo from "@/src/layout/headers/header-2";
+import HeaderTwo from "../../../layout/headers/header-2";
 import React from "react";
 import HeroArea from "./hero-area";
 import OfferArea from "./offer-area";
@@ -10,7 +10,7 @@ import BrandArea from "./brand-area";
 import BlogArea from "./blog-area";
 import TestimonialArea from "./testimonial-area";
 import CtaArea from "./cta-area";
-import FooterTwo from "@/src/layout/footers/footer-2";
+import FooterTwo from "../../../layout/footers/footer-2";
 
 const HomeTwo = () => {
   return (

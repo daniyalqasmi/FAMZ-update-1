@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import NavMenu from './nav-menu';
-import LangLogo from "../../../public/assets/img/logo/logo-lang.png";
+// import LangLogo from "@assets/img/logo/logo-lang.png";
 import useSticky from '../../hooks/use-sticky';
 import HamburgerBtn from '../../svg/hamburger-btn';
 import React, { useEffect, useRef, useState } from 'react';
@@ -50,8 +50,8 @@ const HeaderOne = () => {
                                     </span></a>
                               </li>
                               <li>
-                                 <a href="mailto:info@fmaz.net.pk"><span>
-                                    <i className="fa-solid fa-envelope"></i></span>info@fmaz.net.pk
+                                 <a href="mailto:info@famz.net.pk"><span>
+                                    <i className="fa-solid fa-envelope"></i></span>info@famz.net.pk
                                  </a>
                               </li>
                            
@@ -61,7 +61,7 @@ const HeaderOne = () => {
                      <div className="col-xxl-6 col-xl-4">
                         <div className="tp-header-top-right d-flex justify-content-end align-items-center">
                            <div className="header-call">
-                              <a href="tel:+92 331 2788903"><i className="fa-solid fa-phone"></i>+92 331 2788903</a>
+                              <a href="tel:+92-331-2788903"><i className="fa-solid fa-phone"></i>+92-331-2788903</a>
                            </div>
                            <div className="header-social d-xxl-block d-none">
                               <Link href="https://www.facebook.com/FAMZsupplychain"><i className="fa-brands fa-facebook"></i> Facebook</Link>

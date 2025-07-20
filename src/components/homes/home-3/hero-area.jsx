@@ -4,9 +4,9 @@ import React, { useEffect, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, EffectFade, Navigation } from 'swiper';
 
-import slider_shape_1 from "@assets/img/hero/hero-3/shape-1.png";
-import slider_shape_2 from "@assets/img/hero/hero-3/shape-2.png";
-import slider_shape_3 from "@assets/img/hero/hero-3/shape-3.png";
+import slider_shape_1 from "../../../../public/assets/img/hero/hero-3/shape-1.png";
+import slider_shape_2 from "../../../../public/assets/img/hero/hero-3/shape-2.png";
+import slider_shape_3 from "../../../../public/assets/img/hero/hero-3/shape-3.png";
 
 
 const hero_slider = [

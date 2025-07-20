@@ -1,11 +1,11 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import EmailAeroplan from '@/src/svg/email-aeroplan';
-import SocialLinks from '@/src/common/social-links';
+import EmailAeroplan from '../../svg/email-aeroplan';
+import SocialLinks from '../../common/social-links';
 
-import  footer_shape_1 from "../../../../public/assets/img/footer/shape-1.png";
-import  footer_logo from "../../../../public/assets/img/logo/footer-logo.png";
+import  footer_shape_1 from "../../../public/assets/img/footer/shape-1.png";
+import  footer_logo from "../../../public/assets/img/logo/footer-logo.png";
 
 
 const footer_two_content = {

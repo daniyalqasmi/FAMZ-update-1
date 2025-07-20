@@ -1,5 +1,5 @@
 import React from "react";
-import Count from "../../../../src/common/count";
+import Count from "../../../common/count";
 
 const counter_data = [
   {

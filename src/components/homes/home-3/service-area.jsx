@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import AngleArrow from '../../../../src/svg/angle-arrow';
+import AngleArrow from '../../../svg/angle-arrow';
 // service icon import here
 import service_icon_1 from "../../../../public/assets/img/services/home-3/icon-1.png";
 import service_icon_2 from "../../../../public/assets/img/services/home-3/icon-2.png";

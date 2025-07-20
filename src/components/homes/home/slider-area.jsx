@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-// import icon from "../../../../public/assets/img/icon/icon-2.png";
+// import icon from "@assets/img/icon/icon-2.png";
 import icon from "../../../../public/assets/img/icon/icon-2.png";
 import Image from 'next/image';
 import Slider from "react-slick";

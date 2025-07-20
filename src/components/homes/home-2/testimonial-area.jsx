@@ -4,15 +4,15 @@ import { Navigation } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // import shape here 
-import testimonial_shape_1 from "@assets/img/testimonial/shape-blur.png";
-import testimonial_shape_2 from "@assets/img/testimonial/shape-2.png";
-import testimonial_shape_3 from "@assets/img/testimonial/shape-3.png";
-import testimonial_shape_4 from "@assets/img/testimonial/shape-4.png";
-import testimonial_shape_5 from "@assets/img/testimonial/shape-blur.png";
+import testimonial_shape_1 from "../../../../public/assets/img/testimonial/shape-blur.png";
+import testimonial_shape_2 from "../../../../public/assets/img/testimonial/shape-2.png";
+import testimonial_shape_3 from "../../../../public/assets/img/testimonial/shape-3.png";
+import testimonial_shape_4 from "../../../../public/assets/img/testimonial/shape-4.png";
+import testimonial_shape_5 from "../../../../public/assets/img/testimonial/shape-blur.png";
 
-import quot from "@assets/img/testimonial/quot-2.png";
-import LeftArrowBtn from '@/src/svg/left-arrow-btn';
-import RightArrowBtn from '@/src/svg/right-arrow-btn';
+import quot from "../../../../public/assets/img/testimonial/quot-2.png";
+import LeftArrowBtn from '../../../svg/left-arrow-btn';
+import RightArrowBtn from '../../../svg/right-arrow-btn';
 
 
 

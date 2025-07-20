@@ -1,9 +1,12 @@
-import Breadcrumb from "../../../src/common/breadcrumb/breadcrumb";
-import HeaderOne from "../../../src/layout/headers/header";
+import Breadcrumb from "../../common/breadcrumb/breadcrumb";
+import HeaderOne from "../../layout/headers/header";
 import React from "react";
 import ServiceDetailsArea from "./service-details-area";
-
-import Footer from "../../../src/layout/footers/footer";
+// import FooterContact from "@/src/layout/footers/footer-contact";
+// import FooterThree from "@/src/layout/footers/footer-3";
+// import AboutArea from "../homes/home-3/about-area";
+// import CounterArea from "../homes/home-2/counter-area";
+import Footer from "../../layout/footers/footer";
 const ServiceDetails = () => {
   return (
     <>

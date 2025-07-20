@@ -1,18 +1,18 @@
 import VideoPopup from "@/src/modals/video-popup";
-import AngleArrow from "@/src/svg/angle-arrow";
-import LineArrowTwo from "@/src/svg/line-arrow-2";
-import RightSymbol from "@/src/svg/right-symbol";
+import AngleArrow from "../../svg/angle-arrow";
+import LineArrowTwo from "../..//svg/line-arrow-2";
+import RightSymbol from "../../svg/right-symbol";
 import Link from "next/link";
-import { useState } from "react";
+// import { useState } from "react";
 import Image from "next/image";
 
 
-import support_img_1 from "../../../../public/assets/img/about/home-3/img-1.jpg";
-import support_img_2 from "../../../../public/assets/img/about/home-3/img-2.jpg";
-import support_img_3 from "../../../../public/assets/img/about/home-3/img-3.jpg";
-import support_img_4 from "../../../../public/assets/img/about/home-3/img-4.jpg";
-import support_img_5 from "../../../../public/assets/img/about/home-3/img-5.jpg";
-import support_img_6 from "../../../../public/assets/img/about/home-3/img-6.jpg";
+import support_img_1 from "../../../public/assets/img/about/home-3/img-1.jpg";
+import support_img_2 from "../../../public/assets/img/about/home-3/img-2.jpg";
+import support_img_3 from "../../../public/assets/img/about/home-3/img-3.jpg";
+import support_img_4 from "../../../public/assets/img/about/home-3/img-4.jpg";
+import support_img_5 from "../../../public/assets/img/about/home-3/img-5.jpg";
+import support_img_6 from "../../../public/assets/img/about/home-3/img-6.jpg";
 
 const support_contact = {
    sub_title_1: "We’ve been stay",

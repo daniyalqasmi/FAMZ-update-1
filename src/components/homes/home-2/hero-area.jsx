@@ -5,10 +5,10 @@ import { Navigation } from 'swiper'
 import { Swiper, SwiperSlide } from 'swiper/react'
  
 
-import LineArrowFour from '@/src/svg/line-arrow-4';
-import shape_1 from "@assets/img/hero/hero-2/shape-1.png";
-import shape_2 from "@assets/img/hero/hero-2/shape-2.png";
-import shape_3 from "@assets/img/hero/hero-2/shape-3.png";  
+import LineArrowFour from '../../../svg/line-arrow-4';
+import shape_1 from "../../../../public/assets/img/hero/hero-2/shape-1.png";
+import shape_2 from "../../../../public/assets/img/hero/hero-2/shape-2.png";
+import shape_3 from "../../../../public/assets/img/hero/hero-2/shape-3.png";  
 
 const setting = {
     slidesPerView: 1,

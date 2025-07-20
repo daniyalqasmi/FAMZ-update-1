@@ -13,7 +13,7 @@ import industry_icon_1 from "../../public/assets/img/industry/icon-1.svg";
 import industry_icon_2 from "../../public/assets/img/industry/icon-2.svg";
 import industry_icon_3 from "../../public/assets/img/industry/icon-3.svg";
 import industry_thumb_1 from "../../public/assets/img/industry/img-1.jpg";
-import industry_thumb_2 from "../../public/assets/img/industry/img-2.jpg";
+// import industry_thumb_2 from "@assets/img/industry/img-2.jpg";
 
 
 const IndustryArea = ({service}) => {

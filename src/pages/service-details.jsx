@@ -2,8 +2,8 @@ import React from 'react';
 import Wrapper from '../layout/wrapper';
 import SEO from '../common/seo';
 import ServiceDetails from '../components/service-details';
-import AboutArea from '../components/homes/home-3/about-area';
-import CounterArea from '../components/homes/home-2/counter-area';
+// import AboutArea from '../components/homes/home-3/about-area';
+// import CounterArea from '../components/homes/home-2/counter-area';
 
 const index = () => {
     return (

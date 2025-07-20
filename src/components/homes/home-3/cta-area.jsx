@@ -2,8 +2,8 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 
-import cta_shape_1 from "@assets/img/cta/home-3/shape-1.png";
-import cta_call from "@assets/img/icon/call.svg";
+import cta_shape_1 from "../../../../public/assets/img/cta/home-3/shape-1.png";
+import cta_call from "../../../../public/assets/img/icon/call.svg";
 
 const cta_content = {
     bg_img: "/assets/img/services/home-3/service-bg.png",

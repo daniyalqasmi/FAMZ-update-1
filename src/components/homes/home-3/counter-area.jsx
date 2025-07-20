@@ -1,4 +1,4 @@
-import Count from '@/src/common/count';
+import Count from '../../../common/count';
 import React from 'react';
 
 const counter_content = [

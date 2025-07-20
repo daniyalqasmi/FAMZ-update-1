@@ -3,9 +3,9 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 
-import feature_img_1 from "@assets/img/feature/home-2/img-2.jpg";
-import feature_img_2 from "@assets/img/feature/home-2/img-3.jpg";
-import feature_img_3 from "@assets/img/feature/home-2/img-1.jpg";
+import feature_img_1 from "../../../../public/assets/img/feature/home-2/img-2.jpg";
+import feature_img_2 from "../../../../public/assets/img/feature/home-2/img-3.jpg";
+import feature_img_3 from "../../../../public/assets/img/feature/home-2/img-1.jpg";
 
 
 

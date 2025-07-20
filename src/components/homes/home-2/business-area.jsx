@@ -1,21 +1,21 @@
 import React from 'react';
 import Image from 'next/image';
 
-import  business_shape_1 from "@assets/img/business/shape-1.png";
-import  business_shape_2 from "@assets/img/business/shape-2.png";
-import  business_shape_3 from "@assets/img/business/shape-3.png";
-import  business_shape_4 from "@assets/img/business/shape-4.png" ;
-import  business_img_1 from "@assets/img/business/img-1.jpg" ;
-import  business_img_2 from "@assets/img/business/img-2.png" ;
-import  business_img_3 from "@assets/img/business/img-3.png" ;
-import  business_user from "@assets/img/business/user.png" ;
+import  business_shape_1 from "../../../../public/assets/img/business/shape-1.png";
+import  business_shape_2 from "../../../../public/assets/img/business/shape-2.png";
+import  business_shape_3 from "../../../../public/assets/img/business/shape-3.png";
+import  business_shape_4 from "../../../../public/assets/img/business/shape-4.png" ;
+import  business_img_1 from "../../../../public/assets/img/business/img-1.jpg" ;
+import  business_img_2 from "../../../../public/assets/img/business/img-2.png" ;
+import  business_img_3 from "../../../../public/assets/img/business/img-3.png" ;
+import  business_user from "../../../../public/assets/img/business/user.png" ;
 
-import AngleArrow from '@/src/svg/angle-arrow';
-import LineArrowTwo from '@/src/svg/line-arrow-2';
-import CodeIcon from '@/src/svg/code-icon';
-import TechIcon from '@/src/svg/tech-icon';
+import AngleArrow from '../../../svg/angle-arrow';
+import LineArrowTwo from '../../../svg/line-arrow-2';
+import CodeIcon from '../../../svg/code-icon';
+import TechIcon from '../../../svg/tech-icon';
 import Link from 'next/link';
-import LineArrowSix from '@/src/svg/line-arrow-6';
+import LineArrowSix from '../../../svg/line-arrow-6';
 
 const BusinessArea = () => {
     return (

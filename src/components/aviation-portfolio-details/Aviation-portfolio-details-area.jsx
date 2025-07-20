@@ -1,4 +1,4 @@
-import aviation_services_data from '@/src/data/aviation_services_data'; 
+import aviation_services_data from '../../data/aviation_services_data'; 
 import AngleArrow from '../../svg/angle-arrow';                      
 import Image from 'next/image';
 import Link from 'next/link';

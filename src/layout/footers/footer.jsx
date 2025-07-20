@@ -12,12 +12,12 @@ const footer_content = {
     contact_us: <> Contact us at <span>info@famz.net.pk</span></>,
     mail: "info@famz.net.pk",
     contact_text: "PERFECT Platform for all your MRO, supply chain, worldwide.",
-    phone: "+92 331 2788903",
+    phone: "+92-331-2788903",
     info: <>FAMZ - Madical & Aviation Aerospace Corporation. Excellence in MRO, supply chain, worldwide.</>,
     map: "https://www.google.com/maps/place/FAMZ/@24.8844045,67.1249211,18.69z/data=!4m6!3m5!1s0x3eb3397205af7677:0x9c2d3bab97965b42!8m2!3d24.8846217!4d67.1256706!16s%2Fg%2F11n0pbgynd?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D",
     address: <>Qualman Consultants, <br /> Drigh Road Drigh Colony <br /> Shah Faisal Colony, Karachi, Karachi City, Sindh</>,
     mail_2: "info@famz.net.pk",
-    mail_phone: <> info@famz.net.pk <br /> +92 331 2788903</>,
+    mail_phone: <> info@famz.net.pk <br /> +92-331-2788903</>,
 
 
     service_links: [
@@ -64,7 +64,7 @@ const Footer = () => {
                                             </div>
                                             <div className="tp-footer-top-right-content">
                                                 <p>{contact_text}</p>
-                                                <a href={`tel:${phone}`}>+92 331 2788903</a>
+                                                <a href={`tel:${phone}`}>+92-331-2788903</a>
                                             </div>
                                         </div>
                                     </div>

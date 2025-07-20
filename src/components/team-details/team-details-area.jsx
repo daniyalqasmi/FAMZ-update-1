@@ -1,11 +1,11 @@
 import React from 'react';
 import Image from 'next/image';
 
-import team_shape_1 from "../../../../public/assets/img/team/details/shape-1.png";
-import team_shape_2 from "../../../../public/assets/img/team/details/shape-2.png";
-import team_member from "../../../../public/assets/img/team/details/img-1.jpg";
-import { SocialLinksTwo } from '@/src/common/social-links';
-import RightSymbol from '@/src/svg/right-symbol';
+import team_shape_1 from "../../../public/assets/img/team/details/shape-1.png";
+import team_shape_2 from "../../../public/assets/img/team/details/shape-2.png";
+import team_member from "../../../public/assets/img/team/details/img-1.jpg";
+import { SocialLinksTwo } from '../../common/social-links';
+import RightSymbol from '../../svg/right-arrow';
 
 const team_details_contact = {
     name: "Cameron Williamson",

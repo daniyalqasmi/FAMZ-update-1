@@ -1,4 +1,4 @@
-import HeaderOne from "@/layout/headers/header";
+import HeaderOne from "../../../layout/headers/header";
 import React from "react";
 import HeroSlider from "./hero-slider";
 import AboutArea from "./about-area";

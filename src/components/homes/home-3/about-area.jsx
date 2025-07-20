@@ -1,10 +1,10 @@
 import Image from 'next/image';
-import Link from "next/link";
+// import Link from "next/link";
 import React,{useState} from 'react';
-import AngleArrow from '../../../../src/svg/angle-arrow';
-import VideoPopup from '../../../../src/modals/video-popup';
+import AngleArrow from '../../../svg/angle-arrow';
+
 // about img import here
-import about_img_1 from "../../../../public/assets/img/about/home-3/shape-4.png";
+import about_img_1 from "../../../../public/assets/img/about/home-3/img-4.jpg";
 import about_img_2 from "../../../../public/assets/img/about/home-3/img-1.jpg";
 import about_img_3 from "../../../../public/assets/img/about/home-3/img-2.jpg";
 import about_img_4 from "../../../../public/assets/img/about/home-3/img-3.jpg";

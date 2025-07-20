@@ -4,16 +4,16 @@ import Image from 'next/image';
 import { Navigation } from 'swiper';
 import { Swiper, SwiperSlide } from "swiper/react";
 
-import blog_slide_img_1 from "@assets/img/blog/img-6.png";
-import blog_slide_img_2 from "@assets/img/blog/img-5.png";
+import blog_slide_img_1 from "../../../../public/assets/img/blog/img-6.png";
+import blog_slide_img_2 from "../../../../public/assets/img/blog/img-5.png";
 
-import blog_img_2 from "@assets/img/blog/img-4.png";
-import blog_img_3 from "@assets/img/blog/img-5.png";
+import blog_img_2 from "../../../../public/assets/img/blog/img-4.png";
+import blog_img_3 from "../../../../public/assets/img/blog/img-5.png";
 
 
-import shape_1 from "@assets/img/blog/shape-1.png";
-import AngleArrow from '@/src/svg/angle-arrow'; 
-import LineArrowTwo from '@/src/svg/line-arrow-2';
+import shape_1 from "../../../../public/assets/img/blog/shape-1.png";
+import AngleArrow from '../../../svg/angle-arrow'; 
+import LineArrowTwo from '../../../svg/line-arrow-2';
 
 const blog_data = [
     // home 02 

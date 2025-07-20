@@ -9,7 +9,7 @@ import React, { useState, useEffect } from "react";
 
 
 import shape_1 from "../../../../public/assets/img/hero/shape-1.png";
-import shape_2 from "../../../../public/assets/img/hero/shape-2.png";
+import shape_2 from "../../../../public/assets/img/hero/shape-1.png";
 import shape_3 from "../../../../public/assets/img/hero/shape-3.png";
 import shape_4 from "../../../../public/assets/img/hero/shape-4.png";
 import shape_5 from "../../../../public/assets/img/hero/shape-7.png";

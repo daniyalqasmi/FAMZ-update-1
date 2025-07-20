@@ -1,5 +1,5 @@
-import our_service_data from '@/src/data/it_services_data';
-import AngleArrow from '@/src/svg/angle-arrow';
+import our_service_data from '../../data/it_services_data';
+import AngleArrow from '../../svg/angle-arrow';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
@@ -38,11 +38,11 @@ const ServiceArea = () => {
                                         <Image src={item.icon} alt="theme-pure" />
                                     </div>
                                     <h4 className="tp-service-breadcrumb-title">
-                                        <Link href={`${item.slug}`}>{item.title}</Link>
+                                        <Link href={`/services/${item.slug}`}>{item.title}</Link>
                                     </h4>
                                     <p>{item.description}</p>
                                     <div className="tp-service-btn">
-                                        <Link href={`${item.slug}`}>
+                                        <Link href={`/services/${item.slug}`}>
                                             Read More
                                             <i className="fa-solid fa-arrow-up-right"></i>
                                         </Link>

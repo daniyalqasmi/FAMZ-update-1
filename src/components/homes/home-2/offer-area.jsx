@@ -1,16 +1,16 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import AngleArrow from '@/src/svg/angle-arrow'; 
-import LineArrowTwo from '@/src/svg/line-arrow-2';
+import AngleArrow from '../../../svg/angle-arrow'; 
+import LineArrowTwo from '../../../svg/line-arrow-2';
 
-import offer_shape_1 from "@assets/img/offering/shape.png";
-import offer_shape_2 from "@assets/img/offering/shape-2.png";
+import offer_shape_1 from "../../../../public/assets/img/offering/shape.png";
+import offer_shape_2 from "../../../../public/assets/img/offering/shape-2.png";
 
-import offering_img_1 from "@assets/img/offering/img-1.svg";
-import offering_img_2 from "@assets/img/offering/img-2.svg";
-import offering_img_3 from "@assets/img/offering/img-3.svg";
-import offering_img_4 from "@assets/img/offering/img-4.svg";
+import offering_img_1 from "../../../../public/assets/img/offering/img-1.svg";
+import offering_img_2 from "../../../../public/assets/img/offering/img-2.svg";
+import offering_img_3 from "../../../../public/assets/img/offering/img-3.svg";
+import offering_img_4 from "../../../../public/assets/img/offering/img-4.svg";
 
 const offering_data = [
     {

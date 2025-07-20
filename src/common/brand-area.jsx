@@ -5,7 +5,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 
 import brand_img_1 from "../../public/assets/img/brand/home-3/brand-1.png";
 import brand_img_2 from "../../public/assets/img/brand/home-3/brand-2.png";
-import brand_img_3 from "../../public/assets/img/brand/home-3/brand-3.png";
+import brand_img_3 from "../../public/assets/img/brand/home-3/brand-1.png";
 import brand_img_4 from "../../public/assets/img/brand/home-3/brand-4.png";
 import brand_img_5 from "../../public/assets/img/brand/home-3/brand-5.png";
 import brand_img_6 from "../../public/assets/img/brand/home-3/brand-6.png";

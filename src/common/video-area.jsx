@@ -1,7 +1,7 @@
 // import VideoPopup from "@/src/modals/video-popup";
 // import { useState } from "react";
 
-// import video_img from "../../../../public/assets/img/others/video-img.jpg";
+// import video_img from "@assets/img/others/video-img.jpg";
 // import Image from "next/image";
 
 // const VideoArea = ({service})  => {

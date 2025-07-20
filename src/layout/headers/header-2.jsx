@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import NavMenu from './nav-menu';
-import useSticky from '@/src/hooks/use-sticky';
+import useSticky from '../..//hooks/use-sticky';
 
-import logo_img from "../../../../public/assets/img/logo/home-2-logo.png";
-import logo_shape from "../../../../public/assets/img/hero/hero-2/logo-shape.png";
-import SearchPopup from '@/src/modals/search-popup';
-import Sidebar from '@/src/modals/sidebar';
+import logo_img from "../../../public/assets/img/logo/home-2-logo.png";
+import logo_shape from "../../../public/assets/img/hero/hero-2/logo-shape.png";
+import SearchPopup from '../../modals/search-popup';
+import Sidebar from '../../modals/sidebar';
 
 const HeaderTwo = () => {
    const {sticky}  =  useSticky()
