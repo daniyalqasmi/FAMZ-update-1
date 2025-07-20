@@ -69,7 +69,7 @@ const GraphicServices = () => {
           zIndex: -1,
           filter: "brightness(0.45) contrast(1.3)",
         }}
-        src="/assets/videos/galaxy-stars.mp4"
+        src="/assets/img/services/galaxy-stars.mp4"
         type="video/mp4"
       />
 
